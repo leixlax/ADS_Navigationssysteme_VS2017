@@ -1,0 +1,5 @@
+Begin
+Departure: Pforzheim
+Arrival: Stuttgart
+Via: 
+End
